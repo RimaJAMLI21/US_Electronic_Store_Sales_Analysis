@@ -21,4 +21,4 @@ This tab deep dives into Product Analysis. This report provides us with order tr
 https://app.powerbi.com/view?r=eyJrIjoiNTIyZjJmOWItYWUwOC00OTU4LTljZjktN2E4MjVhNWQyNjAwIiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9
 
 
-![uselec1]((https://github.com/RimaJAMLI21/US_Electronic_Store_Sales_Analysis/blob/main/uselec1.PNG)https://github.com/RimaJAMLI21/US_Electronic_Store_Sales_Analysis/blob/main/uselec1.PNG))
+![uselec1]((https://github.com/RimaJAMLI21/US_Electronic_Store_Sales_Analysis/blob/main/uselec1.PNG)https://github.com/RimaJAMLI21/US_Electronic_Store_Sales_Analysis/blob/main/uselec1.PNG)
