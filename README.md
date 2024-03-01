@@ -1,4 +1,4 @@
-# US_Electronic_Store_Sales_Analysis
+# US_Electronic_Store_Sales_Analysis PYTHON / SQL /POWER BI Solutions 
 The Sales Analysis Power BI Dashboard provides an in-depth analysis of US Electronic store sales performance. It allows users to monitor crucial metrics, discover trends, and make data-driven decisions to improve business.
 
 # Who Is This Dashboard For?
