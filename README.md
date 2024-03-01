@@ -16,6 +16,22 @@ The user can monitor Monthly/Weekly/ Hourly revenues, Orders, Profitable City & 
 # Product
 This tab deep dives into Product Analysis. This report provides us with order trends for the product categories over time, and users can also determine which product category sells the most quantity Bestseller, users can also see Products on Hold, which helps in inventory management for every store or store location as per the filter selection.
 
+# Business Objectives:
+
+Questions
+
+         Question 1: What was the best month for sales? How much was earned that month?
+         
+         Question 2: What city has the highest sales?
+
+         Question 3: What time should we display advertisements to maximize likehood of customers buying products?
+
+         Question 4: What products are most often sold together?
+
+         Question 5: What product sold the most? Why do you think it sold the most?
+
+         Question 6 : What are the top products that represents highest revenues? 
+
 # PowerBi Dashboard
 
 https://app.powerbi.com/view?r=eyJrIjoiNTIyZjJmOWItYWUwOC00OTU4LTljZjktN2E4MjVhNWQyNjAwIiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9
